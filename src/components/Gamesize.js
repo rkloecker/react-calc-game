@@ -3,7 +3,6 @@ import React, { Component } from "react";
 export default class GameSize extends Component {
   handleClick = e => {
     this.props.setSize(e.target.value);
-    // console.log(e.target.value);
   };
   render() {
     return (

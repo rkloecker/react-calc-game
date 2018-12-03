@@ -1,5 +1,7 @@
 ## Calculate Game - Have fun 
 
+## [deployed with gh-pages](https://rkloecker.github.io/react-calc-game/)
+
 ### React version of multiguessing-game
 
 
